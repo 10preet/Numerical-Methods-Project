@@ -1,0 +1,2 @@
+# Numerical-Methods-Project
+This project consists the study of trading stock options which is a significant part of the financial markets. In the past, there didn’t exist an efficient mathematical model to determine the value of an option. Thus, the Black Scholes model provides the analytical framework for options trading. The Black Scholes equation is a famous partial differential equation in financial mathematics. In this project, we discuss the solution methods for the Black Scholes model with European call and put options.
